@@ -1,0 +1,82 @@
+body{
+    background-color:navy;
+}
+
+div.subpages{
+    text-align: right;
+}
+
+a.subpages{
+    color:white;
+}
+
+p.subpages{
+    color:white;
+    font-size: 18px;
+}
+
+h1.title{
+    color:white;
+    text-align: center;
+    margin-top: -100px;
+}
+
+
+
+img.title{
+    scale: 10%;
+    margin-top: -230px;
+}
+
+#flag1{
+    margin-left: 240px;
+}
+
+#flag2{
+  margin-left: -350px;
+}
+
+div.history{
+    margin-top: -100px;
+    width: 250px;
+    
+}
+
+h3.history{
+    color:white;
+    text-align: left;
+    
+}
+
+p{
+    color:white;
+    font-size: 17px;
+    
+}
+
+img.history{
+    width: 230px;
+    height: 230px;
+
+    position: absolute;
+    margin-left: 320px;
+
+    margin-top: -80px;
+}
+
+#img1{
+    margin-top: 210px;
+}
+
+#img2{
+    margin-left: 800px;
+}
+
+#img3{
+    margin-left: 800px;
+    margin-top: 210px;
+}
+
+#img4{
+
+}
